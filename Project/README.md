@@ -1,11 +1,10 @@
 
 ## Term project: Analog Multiplier
-
-The goal of this project is designing a multiplier that would multiply two sine waves. Gilbert Cell
-is the most commonly used analog multiplier. A sine wave is added to the gate or base of the bias
-generator of the differential amplifier. The quiescent current of the input transistors then changes
-sinusoidally, i.e. gm is not fixed but varies sinusoidally. The differential output is gmvd, since both
-of them are sine waves, multiplication is achieved.
+We designed a multiplier circuit that can multiply two sine waves. For this purpose, the circuit uses the Gilbert cell , which is the most commonly used analog multiplier.
+ 
+The circuit consists of three differential amplifiers. For an analog multiplier implemented with a Gilbert cell, the sine wave (essentially the wave that will be multiplied) is added to the base of the bias generator of the differential amplifier. With the sinusoidal wave, the quiescent current of the input transistors, along with the gain and transconductance gm of the amplifier, then changes sinusoidally. With the varying current, which is determined by the second sine wave, the output is the multiplication of these sine waves, which is an AM modulated signal.
+ 
+To bias the transistors so that they all operate in forward active region, a voltage divider network from the power supply is designed with resistors. DC block (coupling) capacitors is another fundamental addition to the circuit, to stop the DC current going into the AC signal generator, also to separate the DC bias voltage and the AC voltages.
 
 Specifications:
 
