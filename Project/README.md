@@ -1,5 +1,5 @@
 
-##Term project: Analog Multiplier
+## Term project: Analog Multiplier
 
 The goal of this project is designing a multiplier that would multiply two sine waves. Gilbert Cell
 is the most commonly used analog multiplier. A sine wave is added to the gate or base of the bias
