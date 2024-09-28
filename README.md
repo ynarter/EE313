@@ -13,6 +13,6 @@
 - [Lab 4: Common Emitter Stage Cascaded with Push-Pull Voltage Buffer](https://github.com/ynarter/EE313/tree/main/Lab%2002)
 
 ## Term project: Analog Multiplier
-The goal of this project is designing a multiplier that would multiply two sine waves. Gilbert Cell is the most commonly used analog multiplier. A sine wave is added to the gate or base of the bias generator of the differential amplifier. The quiescent current of the input transistors then changes sinusoidally, i.e. gm is not fixed but varies sinusoidally. The differential output is gmvd, since both of them are sine waves, multiplication is achieved. Refer to the [project file](https://github.com/ynarter/EE313/tree/main/project) and [report](https://github.com/ynarter/EE313/tree/main/project) for more details.
+The goal of this project is designing a multiplier that would multiply two sine waves. Gilbert Cell is the most commonly used analog multiplier. A sine wave is added to the gate or base of the bias generator of the differential amplifier. The quiescent current of the input transistors then changes sinusoidally, i.e. gm is not fixed but varies sinusoidally. The differential output is gmvd, since both of them are sine waves, multiplication is achieved. Refer to the [project file](https://github.com/ynarter/EE313/tree/main/Project) and [report](https://github.com/ynarter/EE313/blob/main/Project/project_report_oznurbulca_yigitnarter.pdf) for more details.
 
-- [Project Report](https://github.com/ynarter/EE313/tree/main/project)
+- [Project Report](https://github.com/ynarter/EE313/tree/main/Project)
