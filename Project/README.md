@@ -20,6 +20,6 @@ Specifications:
 • A double balanced mixing cell is used. 
 
 • Given 1kHz and 20kHz sinewaves the output of the circuit is the multiplication of these
-two signals. Please refer to the report for results and further implementation details.
+two signals. Please refer to the [report]() for results and further implementation details.
 
 
