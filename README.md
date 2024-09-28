@@ -1,7 +1,7 @@
 # EE313
 📄 Lab and project reports for the EE313 Electronic Circuit Design course at Bilkent University.
 
-🖥️🔌 The labs/project consist of two parts: Software circuit design on LTSpice and the circuit's hardware implementation.
+🖥️🔌 The labs/project consist of two parts: Software circuit design on LTSpice and the circuit's hardware implementation. Refer to the lab reports for detailed explanations and theoretical background of the implementation, along with the specifications and results.
 
 ## Labs 
 - [Lab 1: Photodiode and LED Characteristics](https://github.com/ynarter/EE313/tree/main/Lab%2001)
